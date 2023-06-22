@@ -13,3 +13,8 @@ b) Convert the contents to uppercase.
 c) Write the modified contents back to the "data.txt" file.
 
 Test your script by running it and verifying that the changes are reflected in the "data.txt" file.
+
+**RESULT:**
+Here is the output of the implemented task.
+
+![image](https://github.com/Ganika07/Task1/assets/129991355/37e31424-67e3-49e0-b21a-e66b17b22cfa)
